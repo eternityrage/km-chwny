@@ -926,5 +926,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-93aa2f83-009a-480a-a9db-222576be5e49 (8).mp4",
+        "metadata": {
+            "title": "Healthy Meal Prep for a Busy Week",
+            "description": "Starting fitness can feel scary \u2014 begin with one walk, one stretch, one choice. You don't need to be perfect, just begin. Follow Kim Chaewonya for gentle, daily inspiration! \ud83c\udf1f #fitnessforbeginners #wellness #lifestyle #kimchaewonya",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
