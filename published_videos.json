@@ -3054,5 +3054,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-93aa2f83-009a-480a-a9db-222576be5e49 (10).mp4",
+        "metadata": {
+            "title": "My Everyday Wellness Routine in Seoul",
+            "description": "My Seoul days blend movement, calm, and little joys \u2014 a workout, a good meal, golden-hour light. Follow Kim Chaewonya for daily fitness, wellness, and lifestyle inspiration! \ud83c\udf38 #seoul #lifestyle #wellness #fitness #kimchaewonya",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
